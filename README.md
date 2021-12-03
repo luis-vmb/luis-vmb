@@ -1,0 +1,4 @@
+-Hi, I’m Luis
+-I’m interested in learning the basics of programming and use of github
+-I’m currently learning C++, "Hello world" level
+-How to reach me ... Discord: L4V1T#9953
